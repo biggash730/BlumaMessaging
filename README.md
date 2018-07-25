@@ -38,6 +38,12 @@ The expected message type enum looks like this:
 * The message content must not be empty
 * The message type must be SMS or Email
 
+## How to generate an API Key
+* Login  to the Bluma Portal
+* Click on the settings dropdown and select subscriptions to open the subscriptions page
+* Click on the refresh icon by the default subscription to generate a new API key
+* Click on the details icon to open and copy your API key.
+
 
 ## Check Available Balance [/api/checkbalance]
 ### Check Balance [GET]
